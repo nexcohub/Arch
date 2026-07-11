@@ -1,0 +1,2 @@
+
+base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode mkinitcpio grub efibootmgr os-prober sudo bash bash-completion zsh nano pacman pacman-contrib archlinux-keyring
