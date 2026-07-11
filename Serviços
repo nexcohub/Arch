@@ -1,0 +1,10 @@
+
+#!/usr/bin/env bash
+
+systemctl enable NetworkManager
+systemctl enable gdm
+systemctl enable cups
+systemctl enable bluetooth
+systemctl enable avahi-daemon
+
+echo "Serviços habilitados."
